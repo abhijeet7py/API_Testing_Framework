@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2db67c00-43bf-4b7c-be57-ca0c2711d61a" name="Changes" comment="API Tests">
-      <change afterPath="$PROJECT_DIR$/Practise/test_lab04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/api_constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/api_requests_wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/common_verifications.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/helpers/payload_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_create_booking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_create_template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_crud_better.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practise/test_Lab03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practise/test_Lab03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +51,10 @@
     &quot;accountId&quot;: &quot;48c3b8e9-b4c2-46d1-b414-eed8e46dd848&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/constants/api_constants.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/utils/utils.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -81,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763214973025</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="API Tests">
+      <option name="closed" value="true" />
+      <created>1763472520033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763472520033</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
