@@ -24,7 +24,7 @@ class TestCRUDBooking(object):
         "Verify that Full Update with the booking ID and Token is working.")
     def test_update_booking_id_token(self, create_token, get_booking_id):
         put_url = APIConstants.put_patch_delete_url(booking_id=get_booking_id)
-        print(put_url)
+        # print(put_url)
         response = put_request(
             url=put_url,
             headers=Utils().common_header_put_delete_patch_cookie(token=create_token),

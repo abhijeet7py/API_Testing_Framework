@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2db67c00-43bf-4b7c-be57-ca0c2711d61a" name="Changes" comment="API Tests" />
+    <list default="true" id="2db67c00-43bf-4b7c-be57-ca0c2711d61a" name="Changes" comment="API Tests">
+      <change afterPath="$PROJECT_DIR$/src/tests/crud/test_crud_delete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/crud/test_crud_better.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/crud/test_crud_better.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +52,8 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for src.tests.crud.test_crud_delete.TestCrudDelete.test_crud_create_delete.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for src.tests.crud.test_crud_delete.TestCrudDelete.test_get_deleted_request.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_Lab02.py.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -58,6 +64,44 @@
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Python tests.Python tests for src.tests.crud.test_crud_delete.TestCrudDelete.test_get_deleted_request">
+    <configuration name="Python tests for src.tests.crud.test_crud_delete.TestCrudDelete.test_crud_create_delete" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="API Testing Framework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.tests.crud.test_crud_delete.TestCrudDelete.test_crud_create_delete&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.tests.crud.test_crud_delete.TestCrudDelete.test_get_deleted_request" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="API Testing Framework" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.tests.crud.test_crud_delete.TestCrudDelete.test_get_deleted_request&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for src.tests.crud.test_crud_delete.TestCrudDelete.test_get_deleted_request" />
+        <item itemvalue="Python tests.Python tests for src.tests.crud.test_crud_delete.TestCrudDelete.test_crud_create_delete" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763472520033</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="API Tests">
+      <option name="closed" value="true" />
+      <created>1763642523203</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763642523203</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
