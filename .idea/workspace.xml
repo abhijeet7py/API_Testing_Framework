@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2db67c00-43bf-4b7c-be57-ca0c2711d61a" name="Changes" comment="API Tests">
-      <change afterPath="$PROJECT_DIR$/Practise/test_Get_Request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/test_post_requests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Python tests.Python tests for src.tests.crud.test_crud_delete.TestCrudDelete.test_get_deleted_request.executor": "Run",
     "Python tests.Python tests in test_Get_Request.py.executor": "Run",
     "Python tests.Python tests in test_Lab02.py.executor": "Run",
+    "Python tests.Python tests in test_post_requests.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -149,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765197520977</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="API Tests">
+      <option name="closed" value="true" />
+      <created>1767612337095</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767612337095</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
